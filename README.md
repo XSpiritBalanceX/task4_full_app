@@ -15,7 +15,9 @@ For the application to start with the server.
 
 
 
-View applications online here [here](https://facebook.github.io/create-react-app/docs/deployment) .
+Front part can be viewed [here](https://task4client-production.up.railway.app/) .
+
+Back part can be viewed [here](https://task4server-production.up.railway.app/api/table/) .
 
 
 
